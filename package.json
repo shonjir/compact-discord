@@ -1,6 +1,6 @@
 {
   "name": "compact-discord",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Hide some elements when Discord is small to save space.",
   "license": "MIT",
   "engines": {

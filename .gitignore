@@ -105,3 +105,6 @@ dist
 
 .parcel-cache
 /bundle
+compact-discord.theme.css
+.gitignore
+compact-discord.theme.css.map
